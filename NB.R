@@ -1,7 +1,4 @@
 
-#things to change 
-# dim(), stop(), data.frame() names() as.matrix() 
-
 NB <- function(formula,data,query){
   library(plyr)
   library(DescTools)
